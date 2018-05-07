@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<persons>
+    <person id="6866e414-9fab-47d0-b302-cec1f9827252">
+        <name>Alex Smith</name>
+        <birthdate>1974-07-17</birthdate>
+    </person>
+    <person id="381070ae-5cfe-451e-8ec0-adfce5a7938e">
+        <name>Alice Fox</name>
+        <birthdate>1997-12-29</birthdate>
+    </person>
+    <person id="b58b76db-c894-469b-8873-06cd04f70555">
+        <name>James Bond</name>
+        <birthdate>1965-01-28</birthdate>
+    </person>
+</persons>
